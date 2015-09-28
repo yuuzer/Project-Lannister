@@ -11,6 +11,7 @@
     <modules>
         <module>project-lannister-core</module>
         <module>project-lannister-rest</module>
+        <module>project-lannister-deploy</module>
     </modules>
 
     <dependencies>
